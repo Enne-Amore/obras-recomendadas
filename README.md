@@ -1,4 +1,3 @@
-
 # 🎨 Obras Recomendadas
 
  Um site web que apresenta várias obras recomendadas a serem consumidas. Essa página se concentra no poder da JavaScript de fazer um slider funcionar. Ademais, é possível mudar de slide clicando em uma das setas ou na bolinha da posição desejada.
@@ -7,6 +6,11 @@
 ## 🌐 Aplicação Hospedada
 
  [Clique aqui para acessar o website](https://enne-amore.github.io/Obras-Recomendadas/)
+
+
+## 🎞️ Pré-visualização
+
+ <img src="img/preview.gif" alt="Pré-visualização do site" width="340" height="200">
 
 
 ## ⚡ Funcionalidades
@@ -38,6 +42,7 @@
  │   ├── style.css       
  ├── docs/                   # Arquivos de documentação do projeto
  │   ├── autorias.txt
+ │   ├── preview.mp4
  ├── fonts/                  # Arquivos das fontes utilizadas  
  │   ├── geometos_rounded/ 
  │   ├── open_dyslexic/
