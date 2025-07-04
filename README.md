@@ -84,7 +84,7 @@
  | Azul Neutra | `#23395B`   |
  | Azul Escura | `#161925`   |
  | Vermelha    | `#F9627D`   |
- | Cinza       | `#dbdbdb`   |
+ | Cinza       | `#DBDBDB`   |
 
 
 ## 🔤 Fontes Tipográficas
