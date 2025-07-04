@@ -28,6 +28,28 @@
  </p>
 
 
+## 📂 Estrutura do Projeto
+
+ ```plaintext
+ obras-recomendadas/
+ ├── css/                    # Arquivos CSS
+ │   ├── reset.css       
+ │   ├── responsive.css  
+ │   ├── style.css       
+ ├── docs/                   # Arquivos de documentação do projeto
+ │   ├── autorias.txt
+ ├── fonts/                  # Arquivos das fontes utilizadas  
+ │   ├── geometos_rounded/ 
+ │   ├── open_dyslexic/
+ ├── img/                    # Imagens utilizadas 
+ ├── js/                     # Arquivos JavaScript
+ │   ├── slider.js
+ ├── index.html              # Arquivo principal de renderização
+ ├── LICENSE                 # Arquivo de licença do projeto
+ ├── README.md
+ ```
+
+
 ## 🛠️ Instalação Local
 
  1. **Clone o repositório**
