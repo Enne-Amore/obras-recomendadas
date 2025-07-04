@@ -92,9 +92,6 @@ body {
     padding: 2.5% 2%;
     font-weight: bold;
 }
-.circulo:focus {
-    outline: 0;
-}
 .circulo:hover,
 .circulo:focus-visible {
     background-color: var(--azul-escura);
@@ -177,7 +174,6 @@ body {
     transition-duration: .6s;
 }
 .rodape a:focus-visible {
-    outline: auto;
     padding: 0.1em;
 }
 .rodape a:hover,

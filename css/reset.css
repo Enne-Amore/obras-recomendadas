@@ -27,10 +27,6 @@ button {
     cursor: pointer;
 }
 
-:focus {
-    outline: 0;
-}
-
 /* Variáveis de cores */
 :root {
     --cinza: #dbdbdb;
