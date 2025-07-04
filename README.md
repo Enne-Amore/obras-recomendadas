@@ -30,13 +30,21 @@
 
 ## 🌈 Cores
 
-| Cor         | Hexadecimal |
-| ----------- | ----------- |
-| Azul Clara  | `#406E8E`   |
-| Azul Neutra | `#23395B`   |
-| Azul Escura | `#161925`   |
-| Vermelha    | `#F9627D`   |
-| Cinza       | `#dbdbdb`   |
+ | Cor         | Hexadecimal |
+ | ----------- | ----------- |
+ | Azul Clara  | `#406E8E`   |
+ | Azul Neutra | `#23395B`   |
+ | Azul Escura | `#161925`   |
+ | Vermelha    | `#F9627D`   |
+ | Cinza       | `#dbdbdb`   |
+
+
+## 🔤 Fontes Tipográficas
+
+ - **Arial, Helvetica, Sans-Serif**  
+   Exemplo de uso:  
+   `font-family: Arial, Helvetica, sans-serif;` ou 
+   `font-family: var(--padrao);`
 
 
 ## 🌟 Referências de Uso
